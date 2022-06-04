@@ -1,0 +1,5 @@
+{'filename': '5f223c24f224bc3a5e77628bb43cece4.jpeg', 'prediction': 'Labrador_retriever', 'score': 81.26 }
+{'filename': 'ea5c9f55bedd87dce4691d34a6863d63.jpeg', 'prediction': 'borzoi', 'score': 53.05 }
+{'filename': '46d26792c3531491b5eef1ca5075a34d.jpeg', 'prediction': 'seat_belt', 'score': 59.730000000000004 }
+{'filename': '47b079fe1cec5292f7587f5eee0d977f.jpeg', 'prediction': 'Weimaraner', 'score': 53.7 }
+{'filename': 'd88afa96d3588ae7f14015480b0bb94c.jpeg', 'prediction': 'Chihuahua', 'score': 48.17 }
